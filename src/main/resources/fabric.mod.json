@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "sussy_mogus",
+  "version": "${version}",
+  "name": "Sussy Mogus Discography",
+  "description": "The Sussy Mogus Discography as Music Discs!",
+  "authors": [
+    "BigVirusBoi"
+  ],
+  "contact": {
+    "website": "https://modrinth.com/mod/sussy-mogus-discography",
+    "repo": "https://github.com/BigVirusBoi/Sussy-Mogus-Discography"
+  },
+  "license": "MIT",
+  "icon": "assets/sussy_mogus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.bigvirusboi.sussy_mogus.client.SussyMogusDiscographyClient"
+    ],
+    "main": [
+      "me.bigvirusboi.sussy_mogus.SussyMogusDiscography"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
