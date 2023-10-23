@@ -12,14 +12,12 @@
     "repo": "https://github.com/BigVirusBoi/Sussy-Mogus-Discography"
   },
   "license": "MIT",
-  "icon": "assets/sussy_mogus/icon.png",
+  "icon": "assets/sussy_mogus/textures/item/music_disc_amogus.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "me.bigvirusboi.sussy_mogus.client.SussyMogusDiscographyClient"
-    ],
+    "client": [],
     "main": [
-      "me.bigvirusboi.sussy_mogus.SussyMogusDiscography"
+      "me.bigvirusboi.sussy_mogus.SussyMogus"
     ]
   },
   "depends": {

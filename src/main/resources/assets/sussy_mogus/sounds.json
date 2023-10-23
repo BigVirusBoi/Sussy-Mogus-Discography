@@ -1,0 +1,90 @@
+{
+  "music_disc.amogus": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:amogus",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wheres_my_pipe": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:wheres_my_pipe",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cracks_in_the_mirror_p1": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:cracks_in_the_mirror_p1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cracks_in_the_mirror_p2": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:cracks_in_the_mirror_p2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lost_in_the_smoke": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:lost_in_the_smoke",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.crackheads_lullaby": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:crackheads_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.in_the_grip_of_the_pipe": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:in_the_grip_of_the_pipe",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ravaged_by_the_rock": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:ravaged_by_the_rock",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.in_the_abyss_of_the_pipe": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:in_the_abyss_of_the_pipe",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.in_the_depths_of_rock_bottom": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:in_the_depths_of_rock_bottom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lost_in_the_crackverse": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:lost_in_the_crackverse",
+        "stream": true
+      }
+    ]
+  }
+}
