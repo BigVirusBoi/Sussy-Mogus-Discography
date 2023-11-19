@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sussy_mogus:item/music_disc_overwinningsgewijs_vernederd"
+  }
+}

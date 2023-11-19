@@ -7,6 +7,7 @@
       }
     ]
   },
+
   "music_disc.wheres_my_pipe": {
     "sounds": [
       {
@@ -83,6 +84,15 @@
     "sounds": [
       {
         "name": "sussy_mogus:lost_in_the_crackverse",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.overwinningsgewijs_vernederd": {
+    "sounds": [
+      {
+        "name": "sussy_mogus:overwinningsgewijs_vernederd",
         "stream": true
       }
     ]

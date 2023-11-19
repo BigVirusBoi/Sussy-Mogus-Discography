@@ -15,6 +15,7 @@ import net.minecraft.world.item.RecordItem;
 
 public class MogusItems {
     public static final Item MUSIC_DISC_AMOGUS = registerRecord(MogusSounds.AMOGUS, 2, 25);
+
     public static final Item MUSIC_DISC_WHERES_MY_PIPE = registerRecord(MogusSounds.WHERES_MY_PIPE, 1, 35);
     public static final Item MUSIC_DISC_CRACKS_IN_THE_MIRROR_P1 = registerRecord(MogusSounds.CRACKS_IN_THE_MIRROR_P1, 1, 35);
     public static final Item MUSIC_DISC_CRACKS_IN_THE_MIRROR_P2 = registerRecord(MogusSounds.CRACKS_IN_THE_MIRROR_P2, 1, 42);
@@ -25,6 +26,8 @@ public class MogusItems {
     public static final Item MUSIC_DISC_IN_THE_ABYSS_OF_THE_PIPE = registerRecord(MogusSounds.IN_THE_ABYSS_OF_THE_PIPE, 2, 13);
     public static final Item MUSIC_DISC_IN_THE_DEPTHS_OF_ROCK_BOTTOM = registerRecord(MogusSounds.IN_THE_DEPTHS_OF_ROCK_BOTTOM, 1, 43);
     public static final Item MUSIC_DISC_LOST_IN_THE_CRACKVERSE = registerRecord(MogusSounds.LOST_IN_THE_CRACKVERSE, 2, 22);
+
+    public static final Item MUSIC_DISC_OVERWINNINGSGEWIJS_VERNEDERD = registerRecord(MogusSounds.OVERWINNINGSGEWIJS_VERNEDERD, 1, 47);
 
     private static int count = 0;
 

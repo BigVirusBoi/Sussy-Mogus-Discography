@@ -8,6 +8,7 @@ import net.minecraft.sounds.SoundEvent;
 
 public class MogusSounds {
     public static SoundEvent AMOGUS = registerSoundEvent("amogus");
+
     public static SoundEvent WHERES_MY_PIPE = registerSoundEvent("wheres_my_pipe");
     public static SoundEvent CRACKS_IN_THE_MIRROR_P1 = registerSoundEvent("cracks_in_the_mirror_p1");
     public static SoundEvent CRACKS_IN_THE_MIRROR_P2 = registerSoundEvent("cracks_in_the_mirror_p2");
@@ -18,6 +19,8 @@ public class MogusSounds {
     public static SoundEvent IN_THE_ABYSS_OF_THE_PIPE = registerSoundEvent("in_the_abyss_of_the_pipe");
     public static SoundEvent IN_THE_DEPTHS_OF_ROCK_BOTTOM = registerSoundEvent("in_the_depths_of_rock_bottom");
     public static SoundEvent LOST_IN_THE_CRACKVERSE = registerSoundEvent("lost_in_the_crackverse");
+
+    public static SoundEvent OVERWINNINGSGEWIJS_VERNEDERD = registerSoundEvent("overwinningsgewijs_vernederd");
 
     private static SoundEvent registerSoundEvent(String name) {
         ResourceLocation resource = new ResourceLocation(SussyMogus.MOD_ID, "music_disc." + name);

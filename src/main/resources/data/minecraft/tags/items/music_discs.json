@@ -1,16 +1,6 @@
 {
   "replace": false,
   "values": [
-    "sussy_mogus:music_disc_amogus",
-    "sussy_mogus:music_disc_wheres_my_pipe",
-    "sussy_mogus:music_disc_cracks_in_the_mirror_p1",
-    "sussy_mogus:music_disc_cracks_in_the_mirror_p2",
-    "sussy_mogus:music_disc_lost_in_the_smoke",
-    "sussy_mogus:music_disc_crackheads_lullaby",
-    "sussy_mogus:music_disc_in_the_grip_of_the_pipe",
-    "sussy_mogus:music_disc_ravaged_by_the_rock",
-    "sussy_mogus:music_disc_in_the_abyss_of_the_pipe",
-    "sussy_mogus:music_disc_in_the_depths_of_rock_bottom",
-    "sussy_mogus:music_disc_lost_in_the_crackverse"
+    "#sussy_mogus:music_discs"
   ]
 }

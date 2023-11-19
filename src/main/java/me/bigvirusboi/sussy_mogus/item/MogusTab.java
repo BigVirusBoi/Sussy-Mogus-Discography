@@ -17,6 +17,7 @@ public class MogusTab {
                 .title(Component.translatable("item_group." + SussyMogus.MOD_ID + ".mogus"))
                 .displayItems((itemDisplayParameters, output) -> {
                     output.accept(MogusItems.MUSIC_DISC_AMOGUS);
+
                     output.accept(MogusItems.MUSIC_DISC_WHERES_MY_PIPE);
                     output.accept(MogusItems.MUSIC_DISC_CRACKS_IN_THE_MIRROR_P1);
                     output.accept(MogusItems.MUSIC_DISC_CRACKS_IN_THE_MIRROR_P2);
@@ -27,6 +28,8 @@ public class MogusTab {
                     output.accept(MogusItems.MUSIC_DISC_RAVAGED_BY_THE_ROCK);
                     output.accept(MogusItems.MUSIC_DISC_IN_THE_ABYSS_OF_THE_PIPE);
                     output.accept(MogusItems.MUSIC_DISC_LOST_IN_THE_CRACKVERSE);
+
+                    output.accept(MogusItems.MUSIC_DISC_OVERWINNINGSGEWIJS_VERNEDERD);
                 })
                 .icon(() -> new ItemStack(MogusItems.MUSIC_DISC_AMOGUS)).build();
 
